@@ -1,3 +1,4 @@
+![BASIC Engine logo](https://raw.githubusercontent.com/wiki/uli/basicengine-wiki/images/be_logo_small.png)
 # Welcome to the BASIC Engine Wiki!
 This is the wiki for the [BASIC Engine](https://basicengine.org) Project.
 
