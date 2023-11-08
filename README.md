@@ -7,4 +7,6 @@ This is the wiki for the [BASIC Engine](https://basicengine.org) Project.
 For more information, just go to the [Home Page of the wiki](https://github.com/uli/basicengine-wiki/wiki).
 Or check the [project's site](https://basicengine.org).
 
-Cheers!
+## Download
+
+You can download the latest version from the [Git Repository](https://basicengine.org/git_builds/h3_rx/)
